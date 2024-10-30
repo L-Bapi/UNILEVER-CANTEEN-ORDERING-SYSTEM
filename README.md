@@ -1,6 +1,7 @@
 ## UNILEVER-CANTEEN-ORDERING-SYSTEM
 
-C:\Users\didib\OneDrive\Bureau\Office canteen.jpeg
+![Office canteen](https://github.com/user-attachments/assets/c39a7bcb-414c-43c5-84d2-8f6b90ccfd3a)
+
 
 ## Table of Content
 
